@@ -1,0 +1,14 @@
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\bin\Debug\net9.0\Desafio.exe
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\bin\Debug\net9.0\Desafio.deps.json
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\bin\Debug\net9.0\Desafio.runtimeconfig.json
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\bin\Debug\net9.0\Desafio.dll
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\bin\Debug\net9.0\Desafio.pdb
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.AssemblyInfo.cs
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.dll
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\refint\Desafio.dll
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.pdb
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\Desafio.genruntimeconfig.cache
+C:\Users\Kroid\OneDrive\Área de Trabalho\Plano de Estudos C# do Zero ao Projeto\Semana 1\Desafio\obj\Debug\net9.0\ref\Desafio.dll
